@@ -1,0 +1,31 @@
+body{
+    background-color: pink;
+    font-family: Arial, sans-serif;
+   text-align: center;
+  color: hotpink;
+}
+.my-box {
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 20px;
+  text-align: left;
+}
+.mancity {
+    text-align: left;
+}
+.home {
+    text-align: right;
+}
+.tableau {
+  text-align: left;
+  color: hotpink;
+}
+.mancitypicture{
+    width: 80%;
+    max-width: 600px;
+    height: auto; 
+    display: block;
+}
+.game{
+    color: hotpink;
+}
